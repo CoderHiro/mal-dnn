@@ -1,0 +1,10 @@
+{
+    "data": {
+      "malware_data": "/home/cgh/pycode/mal-dnn/data/embed_malware/",
+      "normal_data": "/home/cgh/pycode/mal-dnn/data/embed_normal/",
+      "test_data": "./data/embed_data/test/"
+    },
+    "model": {
+      "save_model_path": "./model/fcg_gnn.pkl"
+    }
+  }
